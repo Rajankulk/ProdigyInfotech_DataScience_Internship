@@ -1,1 +1,1 @@
-# ProdigyInfotech-task-1
+# ProdigyInfotech_DataScience_Internship
